@@ -1,3 +1,3 @@
 # python
 
-Different examples , some of the basic, some of complex, showing you what you can do with python, 
+These Repo for the people who wants to Learn Python, i am shating different codes, Class, Loop ... etc

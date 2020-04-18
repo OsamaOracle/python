@@ -1,3 +1,4 @@
+#salnum() function in Python programming language checks whether all the characters in a given string is alphanumeric or not.
 filename = open("strings.txt", "r")
 content = filename.readlines()
 filename.close()
